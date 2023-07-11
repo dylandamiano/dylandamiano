@@ -1,4 +1,6 @@
-<b>Hello, there! I'm Dylan!</b>
+<h1>
+  <b>Hello, there! I'm Dylan!</b>
+</h1>
 
 <!--
 **dylandamiano/dylandamiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
