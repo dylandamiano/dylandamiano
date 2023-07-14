@@ -2,8 +2,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dylandamiano&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
 
-<a href="https://www.threads.net/@damiano_dylan">
-    <img src="https://thread-count.vercel.app/thread-count/@damiano_dylan" alt="My Thread Count">
+<a href="https://www.threads.net/damiano_dylan">
+    <img src="https://thread-count.vercel.app/thread-count/damiano_dylan" alt="My Thread Count">
 </a>
 
 <!--
