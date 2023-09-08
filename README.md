@@ -3,6 +3,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dylandamiano&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylandamiano&show_icons=true&theme=dark)
+
 ![https://www.threads.net/damiano_dylan](https://thread-count.vercel.app/thread-count/damiano_dylan)
 
 CONTACT EMAIL: contact@dylandamiano.com
