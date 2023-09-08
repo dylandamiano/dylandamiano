@@ -5,6 +5,8 @@
 
 ![https://www.threads.net/damiano_dylan](https://thread-count.vercel.app/thread-count/damiano_dylan)
 
+CONTACT EMAIL: contact@dylandamiano.com
+
 <!--
 **dylandamiano/dylandamiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
