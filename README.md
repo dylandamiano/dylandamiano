@@ -6,6 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylandamiano&show_icons=true&theme=dark)
 
 ![https://www.threads.net/damiano_dylan](https://thread-count.vercel.app/thread-count/damiano_dylan)
+![Site Icon](https://dylandamiano.com/images/favicon.png)
 
 CONTACT EMAIL: contact@dylandamiano.com
 
