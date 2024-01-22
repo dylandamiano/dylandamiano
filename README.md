@@ -1,14 +1,5 @@
 # Hello there!
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dylandamiano&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylandamiano&show_icons=true&theme=dark)
-
-![https://www.threads.net/damiano_dylan](https://thread-count.vercel.app/thread-count/damiano_dylan)
-
-CONTACT EMAIL: contact@dylandamiano.com
-
 <h1 align="center">Hi 👋, I'm Dylan Damiano</h1>
 <h3 align="center">A motivated Computer Science and Mathematics student from the United States</h3>
 
@@ -16,7 +7,7 @@ CONTACT EMAIL: contact@dylandamiano.com
 
 - 📝 I regularly write articles on [(coming soon)]((coming soon))
 
-- 📫 How to reach me **damiano@dylandamiano.com**
+- 📫 How to reach me **contact@dylandamiano.com**
 
 - 📄 Know about my experiences [https://dylandamiano.com/assets/Damiano%20Resume%20SP2024a.pdf](https://dylandamiano.com/assets/Damiano%20Resume%20SP2024a.pdf)
 
