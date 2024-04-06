@@ -5,9 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dylandamiano.com](https://dylandamiano.com)
 
-- 📝 I regularly write articles on [(coming soon)]((coming soon))
-
-- 📫 How to reach me **contact@dylandamiano.com**
+- 📫 How to reach me **contact@dylandamiano.com** (WARNING: Certain TLDs may not be received in inbox, if no response in 48-72 hours, please contact me on LinkedIn)
 
 - 📄 Know about my experiences [https://dylandamiano.com/assets/Damiano%20Resume%20SP2024a.pdf](https://dylandamiano.com/assets/Damiano%20Resume%20SP2024a.pdf)
 
