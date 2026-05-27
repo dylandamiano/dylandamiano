@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **contact@dylandamiano.com** (WARNING: Certain TLDs may not be received in inbox, if no response in 48-72 hours, please contact me on LinkedIn)
 
-- 📄 Know about my experiences [https://dylandamiano.com/assets/Damiano%20Resume%20SP2024a.pdf](https://dylandamiano.com/assets/Damiano%20Resume%20SP2024a.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dylan-damiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-damiano" height="30" width="40" /></a>
